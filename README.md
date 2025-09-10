@@ -18,12 +18,3 @@ The Ubuntu Image Collector is a Python script that downloads images from user-pr
 4. Error Handling: Gracefully handles HTTP errors, connection issues, and file errors.
 
 5. Ubuntu Spirit: Embeds messages reflecting community and collaboration.
-
-🛠️ Requirements
-1. Python 3.x
-
-2. Dependencies:
-. requests: For HTTP requests.
-. urllib.parse: For URL parsing.
-. hashlib: For file hashing.
-. os: For file and directory operations.
